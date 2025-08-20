@@ -26,8 +26,8 @@ Ensure you have the following installed:
 Open your terminal and clone this repository to your local machine:
 
 ```bash
-git clone <your-repository-url>
-cd <your-repository-directory>
+git clone https://github.com/Hrita0910/Local_Chatbot.git
+cd Local_Chatbot
 ```
 
 ### 3. Create a Virtual Environment
