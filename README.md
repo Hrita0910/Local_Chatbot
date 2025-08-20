@@ -58,7 +58,7 @@ pip install -r requirements.txt
    python interface.py
    ```
 
-3. **Wait for model loading**: The first time you run the script, it will download the TinyLlama model from Hugging Face (approximately 4.4 GB). This will take several minutes and requires an internet connection. Subsequent launches will be faster.
+3. **Wait for model loading**: The first time you run the script, it will download the TinyLlama model from Hugging Face. This will take several minutes and requires an internet connection. Subsequent launches will be faster.
 
 4. **Start chatting**: Once you see the `Chatbot is ready!` message, you can start typing your messages.
 
